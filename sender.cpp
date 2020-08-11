@@ -1,6 +1,5 @@
 #include "opencv2/opencv.hpp"
 #include "opencv2/videoio.hpp"
-#include <string>
 #include <iostream>
 
 using namespace cv;
