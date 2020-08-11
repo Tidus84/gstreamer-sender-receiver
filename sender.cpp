@@ -2,8 +2,8 @@
 #include "opencv2/videoio.hpp"
 #include <iostream>
 
-using namespace cv;
 using namespace std;
+using namespace cv;
 
 
 int main()
