@@ -1,5 +1,5 @@
 # gstreamer-sender-receiver
-A simple example of sender and receiver using GStreamer and OpenCV
+A simple example of sender and receiver via UDP using GStreamer and OpenCV
 
 This example was tested on Ubuntu Linux 19.10 using the OpenCV 4.4.0 and GStreamer libraries
 
